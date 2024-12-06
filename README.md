@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- My name is Rafa and I am a game developer, currently looking for a team to be apart of! so feel free to message me for work.
+- My name is Rafa and I am a game developer, currently working on multiple projects
 - In this repository you will find:
 - Personal Projects (Usually games or concepts) 🎮
 - Game mods for: Terraria and Stardew valley 🌱
