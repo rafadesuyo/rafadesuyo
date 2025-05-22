@@ -1,9 +1,6 @@
 ### Hello 👋
 
-- My name is Rafa and I am a game developer, currently working on multiple projects
-- In development for steam:
-- Project M🌱
-- Project R 🔭
+- Currently working on some projects for steam.
 
 <!--
 **rafadesuyo/rafadesuyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
