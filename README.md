@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- Currently working on some projects for steam.
+- Currently working full time on Story Tale for steam.
 
 <!--
 **rafadesuyo/rafadesuyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
