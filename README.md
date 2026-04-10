@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello
 
 - Currently working full time on Story Tale for steam.
 
